@@ -1,14 +1,10 @@
 # Sora2 Invite Code Hub: Free Daily Codes Scraped from Reddit, Discord & Twitter
 
-> 📅 **Last Updated:** October 26, 2023 (This repo is updated multiple times a day by our scraper bot)
-
 This repository uses an **automated 24/7 web scraper** to find and post free **Sora2 invite codes** from across the internet. Our bot constantly scans Reddit, Discord, Twitter, and other forums to bring you the freshest codes available.
 
 **Our goal is simple: to be the most reliable, automated Sora2 invite code website on the internet.**
 
-<img width="900" alt="Sora2 AI invite code input screen example" src="https://github.com/user-attachments/assets/a97b083a-d388-4ad1-a385-b48f74de1fb5" />
-
-> 📘 **Bookmark this page!** This is a community project. If you take a code, please share one back. See our community rule below.
+<img width="300" alt="Sora2 AI invite code input screen example" src="https://github.com/user-attachments/assets/a97b083a-d388-4ad1-a385-b48f74de1fb5" />
 
 ## 📚 Table of Contents
 - [What is Sora2?](#what-is-sora2)
