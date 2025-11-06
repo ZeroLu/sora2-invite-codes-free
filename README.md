@@ -30,13 +30,15 @@ Here are the best methods to find a working invite code, starting with our live-
 
 Below is a list of the most recent Sora2 invite codes found by our scraper bot. Be quick! Each code has a limited number of uses.
 
-| Sora2 Invite Code            | Status              | Last Scraped / Added      |
-| ---------------------------- | ------------------- | ------------------------- |
-| `SORA2-BETA-8A3F-9C2D-E5B1`   | 🔥 **High Chance**    | Oct 26, 2023 - 11:45 AM GMT |
-| `OPENAI-SORA-XYZ-77V4-P9Q1`  | **Likely Working**  | Oct 26, 2023 - 10:20 AM GMT |
-| `SORA-COMMUNITY-J4K8-L3M2`   | **Limited Uses Left** | Oct 26, 2023 - 08:05 AM GMT |
-| `FREE-SORA2-TRIAL-R6S7-U9V0` | **Possibly Used**   | Oct 25, 2023 - 09:15 PM GMT |
-
+| Sora2 Invite Code | Last Scraped / Added          |
+| ----------------- | ----------------------------- |
+| `YBTX8Z`          | November 6, 2025 |
+| `AGD60Z`          | November 6, 2025 |
+| `F7JS9D`          | November 5, 2025 |
+| `F2NMYW`          | November 5, 2025 |
+| `EDE20D`          | November 4, 2025 |
+| `2MZB1W`          | November 4, 2025 |
+| `TNJ4KA`          | November 3, 2025 |
 > **For the full, real-time feed with more codes and community shares, check the comments in our main code-sharing issue!**
 > **➡️ [View the Full, Real-Time Feed in Issue #1](https://github.com/ZeroLu/sora2-invite-codes-free/issues/1)**
 
