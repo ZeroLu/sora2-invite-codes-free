@@ -32,7 +32,8 @@ Below is a list of the most recent Sora2 invite codes found by our scraper bot. 
 
 | Sora2 Invite Code | Last Scraped / Added          |
 | ----------------- | ----------------------------- |
-
+| `K7QASH`          | November 7, 2025 |
+| `T38ZHG`          | November 7, 2025 |
 | `NM1JHR`          | November 7, 2025 |
 | `LM2C4E`          | November 7, 2025 |
 | `WSL2P9`          | November 7, 2025 |
