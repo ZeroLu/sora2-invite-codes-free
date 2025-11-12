@@ -32,6 +32,18 @@ Below is a list of the most recent Sora2 invite codes found by our scraper bot. 
 
 | Sora2 Invite Code | Last Scraped / Added          |
 | ----------------- | ----------------------------- |
+| `AVEKXR`          | November 12, 2025 |
+| `4XR1H1`          | November 12, 2025 |
+| `2MRKN5`          | November 12, 2025 |
+| `B04HF0`          | November 12, 2025 |
+| `3SW6YB`          | November 12, 2025 |
+| `CTGCW6`          | November 12, 2025 |
+| `T30A8H`          | November 12, 2025 |
+| `676LOL`          | November 12, 2025 |
+| `7YZAWX`          | November 12, 2025 |
+| `KPNQCG`          | November 12, 2025 |
+| `8X4EWV`          | November 12, 2025 |
+| `HQWQWR`          | November 12, 2025 |
 | `VQQBDA`          | November 10, 2025 |
 | `TWAD5G`          | November 10, 2025 |
 | `A2RP5J`          | November 10, 2025 |
@@ -73,7 +85,7 @@ To keep this project alive and ensure everyone gets a chance, we have one simple
 
 **If you successfully use an invite code from this repository, you are required to share one of your new invite codes back with the community.**
 
-Here’s how:
+Here's how:
 1.  Use a code from our list to get access to Sora2.
 2.  Once you are in, Sora2 will grant you your own new invite codes to share.
 3.  Come back to this repository and go to our main code-sharing issue thread:
