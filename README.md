@@ -4,6 +4,10 @@ This repository uses an **automated 24/7 web scraper** to find and post free **S
 
 **Our goal is simple: to be the most reliable, automated Sora2 invite code website on the internet.**
 
+## Sponsor: [thesorawatermarkremover.com](https://thesorawatermarkremover.com)
+[<img width="600" height="265" alt="image" src="https://github.com/user-attachments/assets/b087445c-d3ad-4152-8e28-33a5ca49d4b5" />](https://thesorawatermarkremover.com)
+
+
 ## 📚 Table of Contents
 
 - [What is Sora2?](#what-is-sora2)
