@@ -1,4 +1,6 @@
-# Sora2 Invite Code Hub: Free Daily Codes Scraped from Reddit, Discord & Twitter
+# 📅 UPDATE: We developed a delicate webpage for sharing Sora2 invite codes, go to this webpage to get [free Sora2 invite codes](https://thesorawatermarkremover.com/tools/sora2-invite-codes) 
+
+## Sora2 Invite Code Hub: Free Daily Codes Scraped from Reddit, Discord & Twitter
 
 This repository uses an **automated 24/7 web scraper** to find and post free **Sora2 invite codes** from across the internet. Our bot constantly scans Reddit, Discord, Twitter, and other forums to bring you the freshest codes available.
 
